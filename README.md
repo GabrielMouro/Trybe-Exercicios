@@ -1,6 +1,6 @@
-# Trybe-Exercicios# Meu repositório de exercícios
+# Trybe-Exercicios #Meu repositório de exercícios
 
 
-Olá mundo
+Olá mundo! Este é meu primeiro repositório online!
 
-teste
+
