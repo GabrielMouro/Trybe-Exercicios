@@ -1,0 +1,1 @@
+Exercícios - Seção 3 dia 1! 
